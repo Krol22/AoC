@@ -25,7 +25,6 @@ while(true) {
 
 console.log(passwd);
 
-
 function checkMd5(md5Hash) {
     let isCorrect = true;
     for(let i = 0; i < 5 && isCorrect; i++){
