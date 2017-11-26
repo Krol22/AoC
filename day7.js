@@ -1,7 +1,3 @@
-// remove all content in []
-// check if next letter is the same
-// check if -1 letter is same as 2 letter
-// i - 1, i === i + 1, i + 2
 const fs = require('fs');
 fs.readFile('./day7.data', 'utf8', (err, data) => {
     data2 = [
